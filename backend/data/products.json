@@ -1,0 +1,663 @@
+[
+  {
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "price": 150.32,
+    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 440.57,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3 Laptop",
+    "price": 250.45,
+    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "ASUS VivoBook 15 Laptop",
+    "price": 767.32,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+    "price": 15.46,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 10.12,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "Realme Narzo 60X 5G",
+    "price": 210.99,
+    "description": "Realme Narzo 60X comes with a 64MP AI camera and 5000mAh battery for long-lasting use.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Samsung Galaxy M14 5G",
+    "price": 285.75,
+    "description": "Equipped with a 6000mAh battery and Exynos 1330 processor for superior performance.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Flipkart",
+    "stock": 10
+  },
+  {
+    "name": "boAt Rockerz 255 Pro+",
+    "price": 29.99,
+    "description": "Wireless neckband with ASAP charge, up to 40 hours playback and IPX7 water resistance.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 15
+  },
+  {
+    "name": "Sony WH-CH520",
+    "price": 99.49,
+    "description": "Sony on-ear wireless headphones with 50 hours of battery life and multipoint connection.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Croma",
+    "stock": 5
+  },
+  {
+    "name": "HP Pavilion 15",
+    "price": 620.00,
+    "description": "HP Pavilion with AMD Ryzen 5, 512GB SSD and Windows 11 preloaded.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 8
+  },
+  {
+    "name": "Apple MacBook Air M1",
+    "price": 999.99,
+    "description": "MacBook Air with M1 chip, 8GB RAM, 256GB SSD, and a silent fanless design.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Apple",
+    "stock": 4
+  },
+  {
+    "name": "Nike Revolution 5",
+    "price": 55.95,
+    "description": "Nike running shoes with lightweight mesh and soft foam cushioning.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Nike",
+    "stock": 12
+  },
+  {
+    "name": "Adidas Galaxy 6 Running Shoes",
+    "price": 49.99,
+    "description": "Comfortable and stylish shoes perfect for workouts and casual wear.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Adidas",
+    "stock": 9
+  },
+  {
+    "name": "Zebronics Zeb-Smart Plus Watch",
+    "price": 39.99,
+    "description": "Bluetooth calling smartwatch with large color display and health monitoring.",
+    "ratings": 3.8,
+    "images": [
+      {
+        "image": "/images/products/16.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 14
+  },
+  {
+    "name": "Fire-Boltt Phoenix Pro",
+    "price": 45.32,
+    "description": "Smartwatch with Bluetooth calling, SpO2 monitoring and 120+ sports modes.",
+    "ratings": 4.0,
+    "images": [
+      {
+        "image": "/images/products/17.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 13
+  },
+  {
+    "name": "Canon EOS 200D II DSLR Camera",
+    "price": 520.00,
+    "description": "Canon DSLR with 24.1 MP, 4K video, Dual Pixel autofocus and Wi-Fi support.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/18.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Canon",
+    "stock": 6
+  },
+  {
+    "name": "Samsung Galaxy Tab A8",
+    "price": 310.25,
+    "description": "10.5-inch tablet with slim design, Dolby Atmos speakers and Kids Mode.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/19.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Samsung",
+    "stock": 11
+  },
+  {
+    "name": "OnePlus Nord Buds 2",
+    "price": 35.45,
+    "description": "OnePlus Nord true wireless earbuds with ANC and long battery life.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "/images/products/20.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 18
+  },
+  {
+    "name": "Realme Watch 3 Pro",
+    "price": 47.30,
+    "description": "GPS Bluetooth calling smartwatch with AMOLED display and voice assistant.",
+    "ratings": 3.9,
+    "images": [
+      {
+        "image": "/images/products/21.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 10
+  },
+  {
+    "name": "Samsung 25W USB-C Charger",
+    "price": 18.00,
+    "description": "Fast charger compatible with Samsung and other USB-C enabled phones.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/22.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Samsung",
+    "stock": 20
+  },
+  {
+    "name": "Sony PlayStation 5 Console",
+    "price": 499.99,
+    "description": "Next-gen gaming console with ultra-fast SSD and 4K support.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/23.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Sony",
+    "stock": 3
+  },
+  {
+    "name": "Xbox Wireless Controller",
+    "price": 59.99,
+    "description": "Ergonomic gaming controller with hybrid D-pad and Bluetooth.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/24.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Microsoft",
+    "stock": 8
+  },
+  {
+    "name": "JBL Flip 5 Speaker",
+    "price": 85.55,
+    "description": "Waterproof Bluetooth speaker with 12 hours of playtime and powerful bass.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/25.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "JBL",
+    "stock": 9
+  },
+  {
+    "name": "Mi Power Bank 3i 20000mAh",
+    "price": 24.99,
+    "description": "Fast-charging power bank with dual input/output and smart protection.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/26.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Mi",
+    "stock": 25
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "price": 99.99,
+    "description": "Advanced wireless mouse with ergonomic design and MagSpeed scroll wheel.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/27.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Logitech",
+    "stock": 6
+  },
+  {
+    "name": "Samsung Galaxy S21 FE 5G",
+    "price": 315.99,
+    "description": "Samsung Galaxy S21 FE with Super AMOLED display and Exynos 2100 processor for a smooth flagship experience.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Samsung Store",
+    "stock": 8
+  },
+  {
+    "name": "Realme Narzo 60 5G",
+    "price": 189.49,
+    "description": "Realme Narzo 60 5G with 64MP camera and 120Hz AMOLED display for blazing-fast visuals.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Realme Official",
+    "stock": 12
+  },
+  {
+    "name": "Fire-Boltt Phoenix AMOLED Smartwatch",
+    "price": 59.99,
+    "description": "1.43\" AMOLED Display with Bluetooth calling and 120+ sports modes, Fire-Boltt premium edition.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 15
+  },
+  {
+    "name": "boAt Airdopes 141 ANC",
+    "price": 35.55,
+    "description": "Up to 42 hours of playtime and active noise cancellation with 6mm drivers for punchy bass.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "boAt Official",
+    "stock": 20
+  },
+  {
+    "name": "HP Pavilion x360 Touchscreen Laptop",
+    "price": 675.00,
+    "description": "HP Pavilion x360 with 12th Gen Intel i5, 16GB RAM, and 512GB SSD for powerful multitasking.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "HP Store",
+    "stock": 6
+  },
+  {
+    "name": "Canon EOS 1500D DSLR Camera",
+    "price": 450.20,
+    "description": "Canon DSLR camera with 24.1 MP CMOS sensor and built-in Wi-Fi for high-quality photography.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Canon India",
+    "stock": 5
+  },
+  {
+    "name": "Nike Revolution 6 Running Shoes",
+    "price": 75.00,
+    "description": "Lightweight running shoes with responsive cushioning and breathable design for long runs.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Nike",
+    "stock": 10
+  },
+  {
+    "name": "Redgear Cloak Wired RGB Gaming Headphones",
+    "price": 48.89,
+    "description": "50mm drivers with surround sound and RGB lighting, ideal for gaming enthusiasts.",
+    "ratings": 3.9,
+    "images": [
+      {
+        "image": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Redgear",
+    "stock": 11
+  },
+  {
+    "name": "Sony WH-CH720N Wireless Headphones",
+    "price": 89.90,
+    "description": "Sony wireless headphones with Active Noise Cancelling and 35 hours battery backup.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/16.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Sony Store",
+    "stock": 9
+  },
+  {
+    "name": "Apple MacBook Air M1",
+    "price": 999.00,
+    "description": "Apple’s M1 chip with 8-core CPU and 7-core GPU, ultrafast performance and long battery life.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/17.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Apple Store",
+    "stock": 4
+  },
+  {
+    "name": "Zebronics ZEB-FIT920CH Smartwatch",
+    "price": 22.50,
+    "description": "Fitness smartwatch with heart rate monitoring and SpO2 tracking under budget.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/18.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Zebronics",
+    "stock": 18
+  },
+  {
+    "name": "Logitech MX Master 3 Wireless Mouse",
+    "price": 99.00,
+    "description": "Advanced ergonomic mouse with ultra-fast scrolling and USB-C quick charging.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/19.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Logitech",
+    "stock": 7
+  },
+  {
+    "name": "Adidas Men's Lite Racer 3.0 Shoes",
+    "price": 64.40,
+    "description": "Men’s running shoes with lightweight mesh upper and soft cloudfoam cushioning.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/20.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Adidas",
+    "stock": 9
+  },
+  {
+    "name": "TCL 43\" 4K Ultra HD Smart LED TV",
+    "price": 329.00,
+    "description": "TCL 43-inch 4K Smart TV with Dolby Vision, HDR10, and Android OS.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/21.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "TCL",
+    "stock": 5
+  },
+  {
+    "name": "OnePlus Nord Buds 2R",
+    "price": 39.99,
+    "description": "OnePlus earbuds with bass wave technology, clear mic, and long battery backup.",
+    "ratings": 4.0,
+    "images": [
+      {
+        "image": "/images/products/22.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "OnePlus",
+    "stock": 13
+  },
+  {
+    "name": "Fastrack Reflex Vox Smart Watch",
+    "price": 40.25,
+    "description": "1.69” HD display, Alexa built-in, and long-lasting battery with multiple sport modes.",
+    "ratings": 3.8,
+    "images": [
+      {
+        "image": "/images/products/23.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Fastrack",
+    "stock": 16
+  },
+  {
+    "name": "ASICS Gel-Contend 7 Running Shoes",
+    "price": 80.60,
+    "description": "Balanced cushioning with excellent arch support and GEL technology for shock absorption.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/24.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "ASICS",
+    "stock": 8
+  },
+  {
+    "name": "Mi Notebook Ultra 3K Laptop",
+    "price": 799.00,
+    "description": "Intel i7 11th Gen, 16GB RAM, 512GB SSD, 15.6-inch 3K display and Thunderbolt 4 support.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/25.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Xiaomi",
+    "stock": 4
+  },
+  {
+    "name": "Infinity Glide 120 Wireless Neckband",
+    "price": 25.50,
+    "description": "12mm drivers with deep bass and dual EQ, magnetic earbuds, up to 7 hours playback.",
+    "ratings": 3.9,
+    "images": [
+      {
+        "image": "/images/products/26.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Infinity",
+    "stock": 14
+  },
+  {
+    "name": "Philips BT1232 Cordless Beard Trimmer",
+    "price": 19.95,
+    "description": "Skin-friendly blades with rounded tips and 30 minutes cordless use after 8-hour charge.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "/images/products/27.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Philips",
+    "stock": 11
+  }
+]
